@@ -1,0 +1,11 @@
+# Ignore the Data folder
+Data/
+
+# Ignore the picture folder
+picture/
+
+# Ignore the masked_predictions folder
+masked_predictions/
+
+# Ignore the .vscode folder
+.vscode/
