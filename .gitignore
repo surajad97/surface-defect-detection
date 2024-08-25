@@ -4,6 +4,8 @@ Data/
 # Ignore the picture folder
 picture/
 
+__pycache__/
+
 # Ignore the masked_predictions folder
 masked_predictions/
 
